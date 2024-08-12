@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- Sou estudante do Alura ...
+- Pretendo realizar os meus projetos aqui...
+
 <!--
 **1124099554/1124099554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
